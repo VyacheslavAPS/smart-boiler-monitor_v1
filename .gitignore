@@ -2,3 +2,6 @@
 .idea/
 __pycache__/
 *.pyc
+config.py
+weather_service.py
+weather_service_test.py
